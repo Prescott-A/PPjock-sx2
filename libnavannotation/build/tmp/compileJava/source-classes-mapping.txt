@@ -1,0 +1,6 @@
+com/mooc/libnavannotation/ActivityDestination.java
+ com.mooc.libnavannotation.ActivityDestination
+com/mooc/libnavannotation/MyClass.java
+ com.mooc.libnavannotation.MyClass
+com/mooc/libnavannotation/FragmentDestination.java
+ com.mooc.libnavannotation.FragmentDestination
